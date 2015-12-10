@@ -20,6 +20,6 @@ public class TestButton : MonoBehaviour {
 
 	public void Test()
 	{
-		Debug.Log ("TEST");
+		Debug.Log ("FREDDI FISH");
 	}
 }
